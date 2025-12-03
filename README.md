@@ -1,27 +1,19 @@
-# Hi, I'm Abhinav
+<h3 style="font-size: 36px; font-weight: 700; margin-bottom: 10px;">
+  Hi, I am Abhinav<br/>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=1000&pause=700&color=00994D&center=false&vCenter=false&width=600&height=60&lines=and+I+am+Coding;Committing;Pulling;Contributing;Reviewing"
+  />
+</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=1700&pause=700&color=00994D&center=true&vCenter=true&width=800&lines=Building;Learning;Developing;Contributing" />
-</p>
+<h4>About me</h4>
+<ul>
+  <li>🔭 I work on projects to learn.</li>
+  <li>🌱 Currently practicing: Python, C, and building small tools.</li>
+</ul>
 
-## About me
-- 🔭 I work on projects to learn.
-- 🌱 Currently practicing: Python, C, and building small tools
-
-## Skills & Tools
-- Languages: Python, C
-- Databases: SQLite
-- DevOps: GitHub Actions, Git
-
----
-
-<details>
-  <summary><strong>Contact</strong></summary>
-  <br>
-
-  - **Email:** avi20060723@gmail.com  
-  - **GitHub:** https://github.com/Abhinav08bhatt  
-  - **Portfolio:** not created yet
-</details>
-
----
+<h4>Skills &amp; Tools</h4>
+<ul>
+  <li><strong>Languages:</strong> Python, C</li>
+  <li><strong>Databases:</strong> SQLite</li>
+  <li><strong>DevOps:</strong> GitHub Actions, Git</li>
+</ul>
