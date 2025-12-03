@@ -1,29 +1,50 @@
-# Hi I am Abhinav
-<!--
-What I build
-- I am still learning and makeing  ·  ·  
-Skills
-- Languages & tools: JavaScript, TypeScript, Python, Node, Docker (edit to match your stack)
-Learning
-- Continuously improving code quality, tests, and architecture through real projects.
+# Hi, I'm Abhinav 👋
 
-Find my work
-- Pinned repos show the real stuff. Open an issue or PR to start a conversation.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=1700&pause=700&color=00994D&center=true&vCenter=true&width=800&lines=Building;Learning;Developing;Contributing" />
+</p>
 
-Contact
-- abhinav112307@gmail.com
--->
-<!--
-**Abhinav08bhatt/Abhinav08bhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  </a>
+  <a href="https://github.com/Abhinav08bhatt">
+    <img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-@Abhinav08bhatt-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:avi20060723@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-avi20060723%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" />
+  <a href="https://github.com/Abhinav08bhatt">
+    <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Abhinav08bhatt&color=blue&label=Visitors" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- 🔭 I work on projects to learn.
+- 🌱 Currently practicing: Python, C, and building small tools
+
+## Skills & Tools
+- Languages: Python, C
+- Databases: SQLite
+- DevOps: GitHub Actions, Git
+
+---
+
+## Featured Projects
+- [taskmgr](https://github.com/Abhinav08bhatt/taskmgr)  
+  A simple Python CLI tool to manage tasks.
+- [21-Python-Projects](https://github.com/Abhinav08bhatt/21-Python-Projects)  
+  Daily mini-projects to learn Python — adding one project a day.
+
+---
+
+## Active Project
+- [21-Python-Projects](https://github.com/Abhinav08bhatt/21-Python-Projects) — adding a project every day until all 21 are done.
+
+---
+
+## Contact
+- Email: avi20060723@gmail.com
+- GitHub: https://github.com/Abhinav08bhatt
+- Portfolio: haven't made yet
+
+---
