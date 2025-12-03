@@ -1,4 +1,4 @@
-# Hi, I'm Abhinav 👋
+# Hi, I'm Abhinav
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=1700&pause=700&color=00994D&center=true&vCenter=true&width=800&lines=Building;Learning;Developing;Contributing" />
