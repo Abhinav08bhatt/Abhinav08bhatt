@@ -14,28 +14,6 @@
 - DevOps: GitHub Actions, Git
 
 ---
-<details>
-  <summary><strong>Featured Projects</strong></summary>
-  <br>
-
-  - [taskmgr](https://github.com/Abhinav08bhatt/taskmgr)  
-    A simple Python CLI tool to manage tasks.
-
-  - [21-Python-Projects](https://github.com/Abhinav08bhatt/21-Python-Projects)  
-    Daily mini-projects to learn Python — adding one project a day.
-</details>
-
----
-
-<details>
-  <summary><strong>Active Project</strong></summary>
-  <br>
-
-  - [21-Python-Projects](https://github.com/Abhinav08bhatt/21-Python-Projects)  
-    Adding a project daily until all 21 are complete.
-</details>
-
----
 
 <details>
   <summary><strong>Contact</strong></summary>
